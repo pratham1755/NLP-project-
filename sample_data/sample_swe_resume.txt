@@ -1,0 +1,29 @@
+Sarah Jenkins
+Email: sarah.jenkins@example.com | Phone: +1 555-0182 | Seattle, WA
+GitHub: github.com/sarahj-dev | Portfolio: sarahjenkins.dev
+
+SUMMARY
+Versatile Full Stack Software Engineer with 2+ years of experience engineering responsive web applications, robust REST APIs, and microservices. Expert in JavaScript, TypeScript, React, Node.js, and MongoDB. Passionate about writing scalable, clean code, CI/CD pipeline automation, and Docker containerization.
+
+TECHNICAL SKILLS
+• Languages: JavaScript, TypeScript, Python, HTML5, CSS3
+• Frontend: React, Redux, Tailwind CSS, Next.js
+• Backend: Node.js, Express, REST API, GraphQL
+• Databases: MongoDB, PostgreSQL, Redis
+• Cloud & DevOps: Docker, Git, GitHub Actions, AWS, Linux
+• Methodologies: Agile, Scrum, CI/CD, Unit Testing
+
+WORK EXPERIENCE
+Full Stack Developer | CloudScale Solutions | 2023 - Present
+• Engineered full-stack web applications using React, Node.js, and TypeScript serving 10,000+ daily active users.
+• Architected scalable RESTful APIs with Express and integrated MongoDB database schemas with indexing for sub-100ms response times.
+• Containerized services using Docker and configured automated CI/CD pipelines via GitHub Actions.
+• Collaborated in an Agile Scrum environment with bi-weekly sprints, peer code reviews, and test-driven development.
+
+PROJECTS
+Collaborative Task Workspace | React, Node.js, Socket.io, MongoDB
+• Built a real-time team collaboration app with live updates, authentication, and role-based permissions.
+• Deployed microservices on AWS EC2 instances with Docker containers.
+
+EDUCATION
+B.S. in Computer Science | Western State University | 2019 - 2023

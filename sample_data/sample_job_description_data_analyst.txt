@@ -1,0 +1,25 @@
+Job Title: Junior Data Analyst
+Company: Apex Global Technologies
+Location: Remote / Hybrid
+
+Job Summary:
+We are looking for a passionate and analytical Junior Data Analyst with strong knowledge of Python, SQL, Excel, Power BI, Pandas, statistics, data cleaning, data visualization, and problem-solving skills. Knowledge of Machine Learning and AWS is an advantage.
+
+Key Responsibilities:
+• Analyze large datasets to uncover trends, patterns, and business opportunities.
+• Build, maintain, and automate recurring reports and executive dashboards using Power BI and Excel.
+• Clean, validate, and preprocess raw data from various database sources using SQL and Python.
+• Work with engineering and product teams to define tracking metrics and communicate insights effectively.
+• Apply statistical techniques and basic machine learning algorithms to assist in predictive analytics.
+
+Required Qualifications & Skills:
+• Bachelor's degree in Computer Science, Data Science, Statistics, or related technical field.
+• Hands-on expertise with Python and data manipulation libraries (Pandas, NumPy).
+• Proficiency in SQL for relational database querying.
+• Strong experience creating data visualizations and dashboards in Power BI and Excel.
+• Solid foundation in statistics and data cleaning methodologies.
+• Excellent communication, collaboration, and problem-solving abilities.
+
+Preferred / Advantageous:
+• Familiarity with cloud platforms such as AWS (S3, Redshift).
+• Exposure to machine learning workflows and scikit-learn.

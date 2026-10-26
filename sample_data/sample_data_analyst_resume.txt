@@ -1,0 +1,35 @@
+John Doe
+Email: john.doe@example.com | Phone: +1 555-0199 | Location: San Francisco, CA
+LinkedIn: linkedin.com/in/johndoe-analyst | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Motivated and detail-oriented Junior Data Analyst with 1.5 years of hands-on experience in exploratory data analysis, data cleaning, and statistical modeling. Proficient in Python, SQL, Pandas, and Excel for transforming unstructured datasets into actionable business insights. Proven track record in building interactive dashboards, automating reporting pipelines, and applying Machine Learning algorithms to solve business problems.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, SQL
+• Libraries & Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+• Databases: MySQL, PostgreSQL
+• Analytics & Reporting: Data Analysis, Data Cleaning, Statistical Analysis, Excel, Advanced Excel
+• Machine Learning: Supervised Learning, Regression, Classification, Clustering
+• Soft Skills: Problem Solving, Teamwork, Communication, Presentation Skills
+
+PROFESSIONAL EXPERIENCE
+Data Analyst Intern | Insights Analytics Corp | June 2023 - Present
+• Cleaned and preprocessed over 500,000 raw sales records using Python and Pandas, reducing data inconsistencies by 32%.
+• Formulated complex SQL queries with joins, window functions, and subqueries to extract critical performance metrics from PostgreSQL databases.
+• Developed exploratory data analysis (EDA) pipelines and visualized seasonal customer retention trends with Matplotlib and Seaborn.
+• Collaborated with cross-functional marketing teams to design automated Excel reporting sheets saving 6 hours of manual reporting every week.
+• Implemented basic machine learning classification models using Scikit-Learn to predict customer churn with 81% accuracy.
+
+PROJECTS
+E-Commerce Customer Behavior Analysis | Python, Pandas, SQL
+• Ingested 100K transaction records, conducted hypothesis testing, and identified key drivers of repeat purchases.
+• Generated data summaries and automated KPI tracking reports for stakeholder presentations.
+
+Automated Healthcare Dataset Cleaning Pipeline | Python, NumPy
+• Built robust scripts to handle missing values, outliers, and normalization across multi-hospital survey data.
+
+EDUCATION
+Bachelor of Science in Computer Science & Data Engineering
+University of Technology | 2020 - 2024
+Relevant Coursework: Natural Language Processing, Database Management Systems, Statistics, Machine Learning

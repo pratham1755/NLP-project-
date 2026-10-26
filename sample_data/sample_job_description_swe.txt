@@ -1,0 +1,23 @@
+Job Title: Full Stack Developer
+Company: Horizon Cloud Tech
+Location: Remote
+
+Overview:
+We are seeking a talented Full Stack Developer to design, develop, and deploy scalable cloud-native web applications. You will collaborate with product managers, UI/UX designers, and backend engineers to build engaging software products.
+
+Key Responsibilities:
+• Build responsive, accessible front-end interfaces using React and TypeScript.
+• Develop secure, high-throughput RESTful APIs using Node.js and Express.
+• Design schema models and manage database migrations using MongoDB and PostgreSQL.
+• Implement automated tests, continuous integration, and continuous delivery (CI/CD) pipelines.
+• Deploy and maintain containerized applications using Docker and Kubernetes on AWS.
+
+Required Skills & Technologies:
+• Proficiency in JavaScript, TypeScript, React, and Node.js.
+• Experience with relational or NoSQL databases such as PostgreSQL or MongoDB.
+• Familiarity with Git, Docker, and CI/CD workflows.
+• Understanding of cloud infrastructure (AWS or Azure or GCP).
+• Strong communication and agile collaboration skills.
+
+Bonus Points:
+• Experience with Kubernetes, GraphQL, or Microservices architecture.
